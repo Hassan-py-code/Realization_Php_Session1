@@ -10,7 +10,6 @@
 <body>
      
     
-
   <fieldset>
     <legend>Donnez votre sur php 8 !</legend>
     <form action="page.php" method="post">
@@ -18,7 +17,7 @@
         <input type="text" name="user_name" placeholder="Name">
         <br>
         <br>
-        
+   
         <input type="email" name="email" placeholder="Email">
         <br>
         <br>
